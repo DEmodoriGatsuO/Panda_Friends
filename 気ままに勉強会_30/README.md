@@ -7,12 +7,10 @@
 
 # DEMO
 - sample1 データ型の対処法 Case - 1
-
-<iframe width="560" height="315" src="https://youtu.be/SKkLZz1KCGQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
+  - https://youtu.be/SKkLZz1KCGQ
 
 - UNIXタイムスタンプ
-
-<iframe width="560" height="315" src="https://youtu.be/7VzWf6BxZao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
+  - https://youtu.be/7VzWf6BxZao
 
 # About This Document
 ## 気ままに勉強会 #30
